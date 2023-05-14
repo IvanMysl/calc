@@ -56,3 +56,9 @@
   height: 63px;
   font-size: 20px;
 }
+#del{
+  color: red;
+  background-color: rgb(180, 221, 180);
+max-width: 266px;
+width: 100%;
+}
